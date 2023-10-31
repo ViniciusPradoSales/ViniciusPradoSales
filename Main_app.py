@@ -43,7 +43,7 @@ app_ = Label(frameCima, text='Financeiro', compound=LEFT, padx=5, relief=FLAT, a
 app_.place(x=0, y=0)
 
 # Abrindo Imagem do App
-app_img = Image.open('C:\\Users\\vini-\\OneDrive\\Área de Trabalho\\Script\'s PT\\icone.png')
+app_img = Image.open('./icone.png')
 app_img = app_img.resize((40,40))
 app_img = ImageTk.PhotoImage(app_img)
 
