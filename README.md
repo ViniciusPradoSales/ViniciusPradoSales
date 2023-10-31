@@ -1,16 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou O Vinicius</h1>
-<h3 align="center">Apaixonado por dados e seus correlacionados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- Me pergunte sobre **Power BI, SQL e Python**
-
-- Você me acha através do e-mail **viniciuspradosales@gmail.com**
-
-- Sobre as minhas experiências [https://www.linkedin.com/in/vinicius-sales-318b3917a/](https://www.linkedin.com/in/vinicius-sales-318b3917a/)
-
-- Um fato engraçado **Eu sou costumo ser engraçado e analítico ao mesmo tempo.**
-
+- Para abrir o arquivo, você deverá intalar a biblioteca Pillow.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-sales-318b3917a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-sales-318b3917a/" height="30" width="40" /></a>
