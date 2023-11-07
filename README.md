@@ -7,7 +7,7 @@
 
 - Você me acha através do e-mail **viniciuspradosales@gmail.com**
 
-- Sobre as minhas experiências [https://www.linkedin.com/in/vinicius-sales-318b3917a/](https://www.linkedin.com/in/vinicius-sales-318b3917a/)
+- Sobre as minhas experiências [https://www.linkedin.com/in/vinicius-prado-sales/
 
 - Um fato engraçado **Eu sou costumo ser engraçado e analítico ao mesmo tempo.**
 
